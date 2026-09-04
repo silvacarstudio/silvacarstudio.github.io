@@ -235,6 +235,16 @@ h1 em {
 }
 
 #aboutImg {
+  position: relative;
+}
+
+#aboutImg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+}
+#aboutImg {
   min-height: 700px;
   background-size: cover;
   background-position: center;
