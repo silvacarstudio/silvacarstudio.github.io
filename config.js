@@ -17,7 +17,8 @@ const SITE = {
   nav: [["Servicios","#servicios"],["Nosotros","#nosotros"],["Galería","#galeria"],["Contacto","#contacto"]],
   hero: { eyebrow:"DETAILING & ESTÉTICA AUTOMOTRIZ", title:"Tu auto.<br><em>En otro nivel.</em>", subtitle:"Cuidado, precisión y pasión por cada detalle.", button:"Agendar turno", image:"images/hero.jpg", position:"center center", darkness:.90 },
   services: { eyebrow:"NUESTROS SERVICIOS", title:"Más que una limpieza.", subtitle:"Tratamos cada vehículo como si fuera nuestro.", items:[
-    ["Detailing Interior","Limpieza profunda y tratamiento de interiores.",""],
+     ["Lavado Premium","Limpieza exterior e interior cuidando cada superficie.",""],
+     ["Detailing Interior","Limpieza profunda y tratamiento de interiores.",""],
     ["Detailing Exterior","Limpieza, descontaminación y terminación exterior.",""],
     ["Pulido de Pintura","Corrección de imperfecciones y recuperación del brillo.",""],
     ["Tratamientos","Protección y mantenimiento para conservar el acabado.",""],
