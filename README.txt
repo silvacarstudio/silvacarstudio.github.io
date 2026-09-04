@@ -4,7 +4,7 @@ NO NECESITÁS EDITAR EL HTML.
 
 1) Abrí config.js.
 2) Ahí están textos, colores, tamaño del logo, WhatsApp, Instagram y todas las fotos.
-3) Para cambiar una foto, poné el nuevo archivo en images/ y cambiá su nombre en config.js.
+3) Para cambiar una foto, poné el nuevo archivo en images/.
 
 LOGO:
 - images/logo.png
