@@ -27,7 +27,7 @@ const SITE = {
   about: { eyebrow:"SILVA STUDIO", title:"El detalle hace la diferencia.", text:[
     "Somos un estudio especializado en detailing y estética automotriz, enfocado en devolverle a cada vehículo una presencia impecable.",
     "Trabajamos con dedicación, productos premium y atención minuciosa para lograr resultados que se notan."
-  ], image:"images/about.gif", position:"center center", darkness:.70 },
+  ], image:"images/about.jpg", position:"center center", darkness:.70 },
   gallery: { eyebrow:"TRABAJOS", title:"Resultados que hablan solos.", images:[
     "images/work-1.jpg","images/work-2.jpg","images/work-3.jpg","images/work-4.jpg","images/work-5.jpg","images/work-6.jpg"
   ]},
